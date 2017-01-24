@@ -1,0 +1,14 @@
+node_modules/
+.sass-cache/
+.nyc_output/
+coverage/
+dist/
+
+# To be removed in next major
+main.css
+
+/index.html
+bundle.*
+npm-debug.log*
+.DS_Store
+.idea/
