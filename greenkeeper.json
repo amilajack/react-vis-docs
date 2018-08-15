@@ -1,0 +1,12 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "examples/complex-chart/package.json",
+        "examples/package.json",
+        "package.json",
+        "showcase/package.json"
+      ]
+    }
+  }
+}
